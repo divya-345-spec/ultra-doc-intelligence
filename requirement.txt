@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+faiss-cpu
+pypdf
+python-docx
+python-dotenv
+numpy
+requests
+python-multipart
+aiohttp
